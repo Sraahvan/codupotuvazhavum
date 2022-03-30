@@ -28,7 +28,13 @@ public class slidingWindow
                 int r = k;
                 while(r<=j)
                 {
-                    dict[r]
+                   // dict[r];
+                   
+                    for(int i = 0; i < dict.Count; i++)
+                    {
+
+                    }
+
                 }
 
 
